@@ -2,6 +2,10 @@
 ### 在集合A{x|x=2^a mod p,a属于N+,a≤n}中，对于任意一个k属于A，2^k mod p的值各不相同。
 ......
 
+我叫Eric_XuBohan
+
+......
+
 <!--
 **Eric-XuBohan/eric-xubohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
